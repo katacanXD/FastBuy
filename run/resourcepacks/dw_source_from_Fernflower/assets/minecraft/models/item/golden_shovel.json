@@ -1,1 +1,0 @@
-{"credits":"diamondworld.pro | vk.com/Foghost","parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/golden_shovel"},"overrides":[{"predicate":{"custom_model_data":1},"model":"prisonevo/weapons/tools/leg_shovel"}]}

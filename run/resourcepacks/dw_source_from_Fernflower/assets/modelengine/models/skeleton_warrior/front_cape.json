@@ -1,1 +1,0 @@
-{"textures":{"0":"modelengine:entity/skeleton_warrior"},"elements":[{"from":[3.0,4.1738796,7.3826833],"to":[13.0,8.17388,7.3826833],"faces":{"south":{"uv":[6.375,0.0,5.125,0.5],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[5.125,0.0,6.375,0.5],"tintindex":0,"rotation":0,"texture":"#0"}},"rotation":{"origin":[8.0,6.1738796,7.3826833],"angle":22.5,"axis":"x"}}]}

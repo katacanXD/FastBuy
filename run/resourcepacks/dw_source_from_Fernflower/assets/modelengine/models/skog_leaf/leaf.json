@@ -1,1 +1,0 @@
-{"textures":{"0":"modelengine:entity/skog_leaf"},"elements":[{"from":[4.5,8.0,5.0],"to":[11.5,8.0,11.0],"faces":{"up":{"uv":[7.0,6.0,0.0,0.0],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[0.0,0.0,7.0,6.0],"tintindex":0,"rotation":0,"texture":"#0"}}}]}

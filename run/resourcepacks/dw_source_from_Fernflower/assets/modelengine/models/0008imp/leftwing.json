@@ -1,1 +1,0 @@
-{"textures":{"0":"modelengine:entity/imp"},"elements":[{"from":[8.0,3.8603172,8.020584],"to":[8.0,10.860317,17.020584],"faces":{"east":{"uv":[2.25,1.75,0.0,3.5],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[0.0,1.75,2.25,3.5],"tintindex":0,"rotation":0,"texture":"#0"}},"rotation":{"origin":[8.0,7.360317,12.520584],"angle":22.5,"axis":"x"}}]}

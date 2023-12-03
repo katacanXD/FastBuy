@@ -1,1 +1,0 @@
-{"parent":"minecraft:block/cube","textures":{"particle":"space/blocks/converter_front","north":"space/blocks/converter_back","south":"space/blocks/converter_side","east":"space/blocks/converter_side","west":"space/blocks/converter_front","up":"space/blocks/converter_up","down":"space/blocks/converter_down"}}

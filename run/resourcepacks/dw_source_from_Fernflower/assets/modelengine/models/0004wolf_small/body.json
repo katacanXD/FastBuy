@@ -1,1 +1,0 @@
-{"textures":{"0":"modelengine:entity/wolf_big"},"elements":[{"from":[8.0,14.0,5.25],"to":[8.0,20.0,9.25],"faces":{"east":{"uv":[5.375,12.125,5.875,12.875],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[5.875,12.125,6.375,12.875],"tintindex":0,"rotation":0,"texture":"#0"}}}]}
