@@ -1,0 +1,84 @@
+{
+  "boss-timer": {
+    "widgets": {
+      "timer": {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    },
+    "enabled-timer": true,
+    "min-level": 0,
+    "max-level": 51,
+    "bosses-count": 51,
+    "pre-spawn-alert-time": 0,
+    "inline-menu-time": true,
+    "spawn-message": true,
+    "pre-spawn-message": true,
+    "spawn-clan-message": false,
+    "pre-spawn-clan-message": false,
+    "pre-spawn-notify": true,
+    "spawn-notify": true,
+    "update-notify": true,
+    "notify-capture": true,
+    "auto-reset": true
+  },
+  "share": {
+    "widgets": {},
+    "bosses": true
+  },
+  "chat": {
+    "widgets": {},
+    "no-spam": false
+  },
+  "rune": {
+    "widgets": {},
+    "runes-bag-properties": true,
+    "runes-bag-set": true,
+    "runes-set-switch": true
+  },
+  "clan": {
+    "widgets": {},
+    "boss-capture-notify": true,
+    "menu-sorting": true
+  },
+  "fishing": {
+    "widgets": {},
+    "auto-fish": false,
+    "hook-delay": 1,
+    "higher-biting-notify": false,
+    "show-fish-exp-in-inventory": true
+  },
+  "render": {
+    "widgets": {},
+    "full-bright": true,
+    "no-block-particles": false,
+    "no-fire": false,
+    "no-strikes": false,
+    "no-falling": false,
+    "no-damage-shake": false,
+    "no-hand-shake": false,
+    "no-excess-hud": true,
+    "no-exp-hud": true,
+    "no-scoreboard-numbers": true,
+    "health-render": 0
+  },
+  "misc": {
+    "widgets": {},
+    "auto-sprint": true,
+    "auto-thanks": true,
+    "fast-selector": true,
+    "fast-interaction": true,
+    "show-server-in-tab": true,
+    "case-notify": true,
+    "lucky-block-notify": true,
+    "collection-notify": true
+  }
+}

@@ -1,0 +1,1 @@
+{"credits":"diamondworld.pro ","parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/dried_kelp"},"overrides":[{"predicate":{"custom_model_data":1},"model":"space/items/snack_bar"}]}

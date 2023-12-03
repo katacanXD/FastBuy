@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/skog"},"elements":[{"from":[2.0,-1.0,8.0],"to":[14.0,8.0,8.0],"faces":{"south":{"uv":[10.8105,3.0645,10.0645,3.623],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[10.0645,3.0645,10.8105,3.623],"tintindex":0,"rotation":0,"texture":"#0"}}}]}

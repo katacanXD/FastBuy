@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"particle":"space/blocks/irts_front","north":"space/blocks/irts_back","south":"space/blocks/irts_front","east":"space/blocks/irts_side","west":"space/blocks/irts_side","up":"space/blocks/irts_up","down":"space/blocks/irts_down"}}

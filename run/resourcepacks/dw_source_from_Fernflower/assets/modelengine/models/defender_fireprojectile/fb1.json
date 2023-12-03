@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/fdefender_fireprojectile"},"elements":[{"from":[-10.333334,8.0,-10.333334],"to":[26.333334,8.0,26.333334],"faces":{"up":{"uv":[16.0,0.0,0.0,16.0],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[0.0,0.0,16.0,16.0],"tintindex":0,"rotation":180,"texture":"#0"}}}]}

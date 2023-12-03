@@ -1,0 +1,1 @@
+{"textures":{"2":"modelengine:entity/magnus"},"elements":[{"from":[4.0,-1.0,8.0],"to":[12.0,8.0,8.0],"faces":{"south":{"uv":[10.875,7.875,11.875,9.0],"tintindex":0,"rotation":0,"texture":"#2"},"north":{"uv":[11.875,7.875,10.875,9.0],"tintindex":0,"rotation":0,"texture":"#2"}}}]}

@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/cube","textures":{"particle":"space/blocks/crate_open_side","north":"space/blocks/crate_open_side","south":"space/blocks/crate_open_side","east":"space/blocks/crate_open_side","west":"space/blocks/crate_open_side","up":"space/blocks/crate_open_up","down":"space/blocks/crate_down"}}

@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/zahar"},"elements":[{"from":[0.0,-1.0,8.0],"to":[16.0,8.0,8.0],"faces":{"south":{"uv":[14.0125,3.2625,15.9875,4.3625],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[15.9875,3.2625,14.0125,4.3625],"tintindex":0,"rotation":0,"texture":"#0"}}}]}

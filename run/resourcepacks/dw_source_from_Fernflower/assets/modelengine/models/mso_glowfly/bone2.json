@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/mso_cave_fly"},"elements":[{"from":[9.174175,9.690418,2.5625],"to":[20.674175,9.690418,13.4375],"faces":{"up":{"uv":[5.75,5.5,11.5,0.0],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[5.75,0.0,11.5,5.5],"tintindex":0,"rotation":0,"texture":"#0"}},"rotation":{"origin":[10.674175,7.315418,6.1875],"angle":45.0,"axis":"z"}}]}
