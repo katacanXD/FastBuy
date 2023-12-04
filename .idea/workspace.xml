@@ -1,6 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be8d501d-8f1f-4fb7-84c8-20c005a960ab" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/cmdkeybind-1.6.2-1.19.4-64b5720b4b825f21.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/cmdkeybind-1.6.2-1.19.4-64b5720b4b825f21.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/fabric-language-kotlin-1.10.15+ktlin.1.9.21-64b5720b4b825f21.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/fabric-language-kotlin-1.10.15+ktlin.1.9.21-64b5720b4b825f21.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/ias-8.0.2-64b5720b4b825f21.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/ias-8.0.2-64b5720b4b825f21.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/kyrptconfig-1.5.2-1.19.4-a21a21dcc033e279.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/kyrptconfig-1.5.2-1.19.4-a21a21dcc033e279.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/modmenu-6.3.1-64b5720b4b825f21.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/modmenu-6.3.1-64b5720b4b825f21.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlin_kotlin-reflect-1.9.21-52e0a105c203aa09.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlin_kotlin-reflect-1.9.21-52e0a105c203aa09.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlin_kotlin-stdlib-1.9.21-d9da54c5981884e9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlin_kotlin-stdlib-1.9.21-d9da54c5981884e9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlin_kotlin-stdljdk7-1.9.21-8ecf20f1e67ef956.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlin_kotlin-stdljdk7-1.9.21-8ecf20f1e67ef956.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlin_kotlin-stdljdk8-1.9.21-88c8c9025ae7e0dc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlin_kotlin-stdljdk8-1.9.21-88c8c9025ae7e0dc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_atomicfu-jvm-0.23.0-fe6fdbf6c80f6ff.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_atomicfu-jvm-0.23.0-fe6fdbf6c80f6ff.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-co-jdk8-1.7.3-76ccc31aa82970e6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-co-jdk8-1.7.3-76ccc31aa82970e6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-coe-jvm-1.7.3-ae0eac1795967cd7.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-coe-jvm-1.7.3-ae0eac1795967cd7.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-dae-jvm-0.4.1-2f4a2a0c113f6a10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-dae-jvm-0.4.1-2f4a2a0c113f6a10.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-see-jvm-1.6.1-dfbf7a77ce772e4d.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-see-jvm-1.6.1-dfbf7a77ce772e4d.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-sen-jvm-1.6.1-d02dec662c338100.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-sen-jvm-1.6.1-d02dec662c338100.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-ser-jvm-1.6.1-805785fe683d6f8e.jar" beforeDir="false" afterPath="$PROJECT_DIR$/run/.fabric/processedMods/org_jetbrains_kotlinx_kotlinx-ser-jvm-1.6.1-805785fe683d6f8e.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/fabric/indigo-renderer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/config/ias.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/ias.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2023-12-03-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2023-12-03-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2023-12-03-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2023-12-03-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2023-12-03-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2023-12-03-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2023-12-03-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2023-12-03-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2023-12-03-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2023-12-03-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2023-12-03-6.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2023-12-03-6.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/2023-12-03-7.log.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-4.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-5.log.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/servers.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/servers.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/feytox/zoomify/FastBuy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/feytox/zoomify/FastBuy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/feytox/zoomify/Zoomify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/feytox/zoomify/Zoomify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/feytox/zoomify/mixin/ClientPlayNetworkHandlerMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/feytox/zoomify/mixin/ClientPlayNetworkHandlerMixin.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Z1yVuaJSLVxLd1PitmfowOfjoG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Дельфин/Desktop/obfs&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Дельфин\Desktop\FastBuy\src\main\resources" />
+      <recent name="C:\Users\Дельфин\Desktop\FastBuy\src\main\java\ru\feytox\zoomify" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.feytox.zoomify.mixin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.FastBuy [runClient]">
+    <configuration name="FastBuy [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="FastBuy [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.FastBuy [runClient]" />
+        <item itemvalue="Gradle.FastBuy [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be8d501d-8f1f-4fb7-84c8-20c005a960ab" name="Changes" comment="" />
+      <created>1701603907072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701603907072</updated>
+    </task>
+    <servers />
   </component>
 </project>

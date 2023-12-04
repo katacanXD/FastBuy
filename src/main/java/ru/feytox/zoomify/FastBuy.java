@@ -12,6 +12,7 @@ public class FastBuy {
     public static Text windowOne;
     public static Text windowTwo;
 
+
     public static void buy(int volume) {
         ClientPlayerEntity player = MinecraftClient.getInstance().player;
         MinecraftClient mc = MinecraftClient.getInstance();
