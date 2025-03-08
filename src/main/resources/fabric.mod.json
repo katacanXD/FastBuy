@@ -1,33 +1,36 @@
 {
   "schemaVersion": 1,
-  "id": "zoomify",
-  "version": "2.9.4",
-  "name": "Zoomify",
-  "description": "A zoom mod with infinite customizability.",
+  "id": "fastbuy",
+  "version": "${version}",
+
+  "name": "FastBuy",
+  "description": "o_o",
   "authors": [
-    "isXander"
+    "Katacan"
   ],
   "contact": {
-    "homepage":"https://isxander.dev",
-    "issues":"https://github.com/isXander/Zoomify/issues",
-    "sources":"https://github.com/isXander/Zoomify"
   },
-  "license": "MIT",
-  "icon": "assets/zoomify/zoomify.png",
-  "environment": "client",
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
   "entrypoints": {
     "main": [
-      "ru.feytox.zoomify.Zoomify"
+      "ru.katacan.fastbuy.Buy"
     ]
   },
   "mixins": [
-    "zoomify.mixins.json"
+    "modid.mixins.json"
   ],
 
   "depends": {
-    "fabricloader": "*",
-    "fabric": "*",
-    "minecraft": "1.19.4",
+    "fabricloader": ">=0.14.19",
+    "fabric-api": "*",
+    "minecraft": "~1.19.4",
     "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
   }
 }
